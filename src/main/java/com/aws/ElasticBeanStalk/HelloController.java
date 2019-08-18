@@ -11,6 +11,6 @@ public class HelloController {
     @GetMapping
     public String Run()
     {
-        return "Hello Madhu";
+        return "Hello Cloud Gurus";
     }
 }
